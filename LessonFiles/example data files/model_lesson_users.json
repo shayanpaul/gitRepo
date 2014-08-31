@@ -1,0 +1,28 @@
+{
+	"users": [
+		{
+			"name": "Mike Henderson",
+            "age": 24,
+            "phone": "555-555-555",
+            "gender": "Male",
+            "username": "mhenderson",
+            "alive": true
+        },
+        {
+			"name": "Sally Michael",
+            "age": 34,
+            "phone": "555-555-555",
+            "gender": "Female",
+            "username": "sallym",
+            "alive": true
+        },
+        {
+			"name": "Rory Muldoon",
+            "age": 19,
+            "phone": "555-555-555",
+            "gender": "Male",
+            "username": "greatscott",
+            "alive": true
+        }
+	]
+}

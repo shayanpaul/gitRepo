@@ -1,0 +1,1 @@
+Lesson files are divided into folders for each of the lessons apart from the theming lesson which is integrated with the note taker lesson. In each folder you will find only the relevant files for that lesson, not the entire touch framework.
